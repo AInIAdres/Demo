@@ -35,4 +35,6 @@ python main.py --csv ./sample_sales.csv --date-col date --value-col amount --gro
 cd kpi-dashboard-autogenerator
 pip install -r requirements.txt
 python main.py --csv leads_sample.csv --date-col created_date --value-col value_est_usd --group-col source
+```
+Nota: En cd agrega el directorio donde tengas el archivo kpi-dashboard-autogenerator
 
