@@ -6,6 +6,11 @@ Genera KPIs y gráficos desde cualquier CSV y produce un reporte HTML y PNGs usa
 - Mostrar valor rápido a un cliente a partir de sus exportaciones (ventas, leads, tickets).
 - Entregable visual sin montar BI.
 
+## Objetivo
+Generar reportes de rendimiento de leads con métricas clave (tasa de conversión, valor promedio, tiempo de contacto).
+## Stack
+Python (pandas, matplotlib, jinja2)
+
 ## Requisitos
 - Python 3.10+
 
