@@ -1,0 +1,121 @@
+created_date,lead_id,name,email,company,source,interest,lead_score,value_est_usd,contacted_date,conversion_date,stage,notes
+2025-09-20,LD20250001,Ana Ruiz,ana.1@example.com,RetailPro,Organic Search,Alta,75,1800,2025-09-20,,new,Interesado en demo
+2025-07-28,LD20250002,María Torres,maría.2@startup.io,TechMarket,LinkedIn Ads,Alta,77,1800,2025-07-31,,contacted,Busca dashboard semanal
+2025-09-14,LD20250003,Luis Herrera,luis.3@example.com,Globex,Email Campaign,Media,46,1800,2025-09-19,,new,Pregunta por precios
+2025-08-03,LD20250004,Juan Perez,juan.4@business.co,TechMarket,LinkedIn Ads,Media,55,500,2025-08-08,,proposal,Pregunta por precios
+2025-07-25,LD20250005,Ana Ruiz,ana.5@example.com,RetailPro,LinkedIn Ads,Media,65,3000,2025-08-01,2025-08-04,converted,Pedir llamada
+2025-08-16,LD20250006,Carlos Gomez,carlos.6@mail.com,Innova,LinkedIn Ads,Media,48,1080,2025-08-18,,qualified,Pregunta por precios
+2025-10-02,LD20250007,María Torres,maría.7@empresa.com,SolucionesYA,Organic Search,Baja,25,720,2025-10-05,,qualified,Interesado en demo
+2025-08-10,LD20250008,Diego Lopez,diego.8@mail.com,Acme Co,LinkedIn Ads,Baja,24,1080,2025-08-16,,qualified,Pedir llamada
+2025-08-28,LD20250009,Carlos Gomez,carlos.9@mail.com,Globex,LinkedIn Ads,Baja,17,1500,2025-08-31,,contacted,Necesita integracion con ERP
+2025-09-04,LD20250010,Carolina Rojas,carolina.10@example.com,Acme Co,Upwork,Alta,70,1800,2025-09-05,2025-09-19,converted,Busca dashboard semanal
+2025-08-18,LD20250011,Carolina Rojas,carolina.11@startup.io,Innova,Direct,Alta,74,400,2025-08-23,,qualified,Interesado en demo
+2025-08-07,LD20250012,Diego Lopez,diego.12@empresa.com,SolucionesYA,LinkedIn Ads,Baja,26,1080,2025-08-09,,contacted,Pregunta por precios
+2025-07-14,LD20250013,Luis Herrera,luis.13@startup.io,TechMarket,LinkedIn Ads,Media,50,1800,,,lost,Busca dashboard semanal
+2025-07-03,LD20250014,Ana Ruiz,ana.14@mail.com,Innova,LinkedIn Ads,Alta,65,400,2025-07-04,,new,Pregunta por precios
+2025-07-17,LD20250015,Carlos Gomez,carlos.15@business.co,TechMarket,LinkedIn Ads,Baja,35,450,2025-07-20,,qualified,Pedir llamada
+2025-08-09,LD20250016,Diego Lopez,diego.16@mail.com,SolucionesYA,Upwork,Media,42,300,2025-08-12,,new,Pregunta por precios
+2025-07-29,LD20250017,Juan Perez,juan.17@example.com,RetailPro,Referral,Alta,86,1200,2025-08-02,2025-08-07,converted,Pedir llamada
+2025-09-01,LD20250018,María Torres,maría.18@startup.io,Globex,Email Campaign,Baja,27,240,2025-09-07,,qualified,Necesita integracion con ERP
+2025-07-13,LD20250019,Ana Ruiz,ana.19@business.co,Innova,Organic Search,Media,49,1080,2025-07-18,,new,Interesado en demo
+2025-08-01,LD20250020,María Torres,maría.20@empresa.com,TechMarket,Organic Search,Media,45,450,,,new,Busca dashboard semanal
+2025-09-09,LD20250021,Ana Ruiz,ana.21@example.com,RetailPro,Direct,Alta,93,3000,2025-09-16,2025-09-24,converted,Busca dashboard semanal
+2025-07-28,LD20250022,Diego Lopez,diego.22@example.com,Globex,Organic Search,Media,44,720,2025-08-01,,qualified,Busca dashboard semanal
+2025-09-28,LD20250023,Carolina Rojas,carolina.23@empresa.com,Globex,Organic Search,Alta,64,1800,2025-10-05,2025-10-01,converted,Pregunta por precios
+2025-09-06,LD20250024,Carlos Gomez,carlos.24@example.com,TechMarket,LinkedIn Ads,Alta,70,500,2025-09-09,,qualified,Busca dashboard semanal
+2025-07-16,LD20250025,María Torres,maría.25@startup.io,TechMarket,LinkedIn Ads,Alta,65,400,2025-07-19,2025-07-26,converted,Pedir llamada
+2025-09-30,LD20250026,Sofia Martinez,sofia.26@empresa.com,Innova,Organic Search,Baja,33,1080,2025-10-01,,contacted,Interesado en demo
+2025-08-28,LD20250027,Ana Ruiz,ana.27@example.com,TechMarket,LinkedIn Ads,Media,54,500,2025-08-30,,contacted,Busca dashboard semanal
+2025-09-08,LD20250028,Luis Herrera,luis.28@startup.io,RetailPro,Organic Search,Baja,33,1800,2025-09-10,,lost,Solicito presupuesto
+2025-07-15,LD20250029,Ana Ruiz,ana.29@startup.io,Globex,Organic Search,Baja,29,1080,2025-07-15,,new,Interesado en demo
+2025-09-20,LD20250030,Diego Lopez,diego.30@mail.com,Acme Co,LinkedIn Ads,Alta,82,1800,2025-09-26,,new,Pregunta por precios
+2025-07-02,LD20250031,Ana Ruiz,ana.31@example.com,RetailPro,Direct,Baja,38,240,2025-07-02,,new,Solicito presupuesto
+2025-07-27,LD20250032,María Torres,maría.32@example.com,Innova,Email Campaign,Media,48,240,2025-07-29,,lost,Necesita integracion con ERP
+2025-08-22,LD20250033,Juan Perez,juan.33@empresa.com,RetailPro,Direct,Media,56,3000,2025-08-23,2025-08-29,converted,Busca dashboard semanal
+2025-07-05,LD20250034,Carolina Rojas,carolina.34@empresa.com,Globex,Upwork,Media,33,720,2025-07-08,,qualified,Necesita integracion con ERP
+2025-07-04,LD20250035,María Torres,maría.35@business.co,Innova,Organic Search,Alta,79,1800,2025-07-09,2025-07-23,converted,Interesado en demo
+2025-07-15,LD20250036,Luis Herrera,luis.36@empresa.com,TechMarket,Direct,Media,49,300,2025-07-20,2025-07-30,converted,Pedir llamada
+2025-08-10,LD20250037,Diego Lopez,diego.37@startup.io,TechMarket,LinkedIn Ads,Baja,30,1500,2025-08-13,,lost,Solicito presupuesto
+2025-08-25,LD20250038,Ana Ruiz,ana.38@mail.com,TechMarket,Organic Search,Alta,75,1800,2025-08-31,,contacted,Solicito presupuesto
+2025-08-21,LD20250039,Luis Herrera,luis.39@startup.io,Globex,LinkedIn Ads,Baja,41,450,2025-08-21,,contacted,Solicito presupuesto
+2025-08-06,LD20250040,María Torres,maría.40@business.co,TechMarket,Referral,Media,55,2500,2025-08-13,,qualified,Pedir llamada
+2025-07-22,LD20250041,Ana Ruiz,ana.41@mail.com,TechMarket,Email Campaign,Baja,19,1800,2025-07-25,,contacted,Necesita integracion con ERP
+2025-07-04,LD20250042,Juan Perez,juan.42@empresa.com,SolucionesYA,Referral,Alta,97,2500,2025-07-07,2025-07-24,converted,Pedir llamada
+2025-09-28,LD20250043,Diego Lopez,diego.43@business.co,SolucionesYA,LinkedIn Ads,Baja,23,1800,2025-09-30,,new,Pedir llamada
+2025-09-05,LD20250044,Carolina Rojas,carolina.44@example.com,TechMarket,LinkedIn Ads,Alta,59,2500,2025-09-10,2025-09-21,converted,Busca dashboard semanal
+2025-09-17,LD20250045,Diego Lopez,diego.45@startup.io,SolucionesYA,Upwork,Baja,34,1800,2025-09-24,,qualified,Pedir llamada
+2025-07-31,LD20250046,Luis Herrera,luis.46@business.co,Acme Co,Email Campaign,Alta,65,1200,2025-08-01,2025-08-19,converted,Necesita integracion con ERP
+2025-07-20,LD20250047,María Torres,maría.47@business.co,RetailPro,LinkedIn Ads,Alta,82,400,2025-07-23,2025-07-23,converted,Busca dashboard semanal
+2025-08-19,LD20250048,Juan Perez,juan.48@startup.io,SolucionesYA,Organic Search,Media,51,1200,2025-08-25,,proposal,Pregunta por precios
+2025-10-04,LD20250049,María Torres,maría.49@business.co,Globex,Organic Search,Media,55,1800,2025-10-11,,qualified,Necesita integracion con ERP
+2025-09-18,LD20250050,Juan Perez,juan.50@business.co,TechMarket,Referral,Alta,86,500,2025-09-25,2025-09-24,converted,Necesita integracion con ERP
+2025-07-07,LD20250051,Luis Herrera,luis.51@business.co,Innova,LinkedIn Ads,Media,41,720,2025-07-11,,proposal,Interesado en demo
+2025-08-30,LD20250052,Juan Perez,juan.52@startup.io,Acme Co,Direct,Media,65,750,2025-08-30,,qualified,Interesado en demo
+2025-08-01,LD20250053,María Torres,maría.53@example.com,TechMarket,LinkedIn Ads,Alta,71,750,2025-08-06,2025-08-11,converted,Necesita integracion con ERP
+2025-09-16,LD20250054,Ana Ruiz,ana.54@empresa.com,Innova,LinkedIn Ads,Alta,75,1200,2025-09-19,,lost,Interesado en demo
+2025-09-14,LD20250055,María Torres,maría.55@example.com,RetailPro,Email Campaign,Baja,23,240,2025-09-20,,contacted,Pedir llamada
+2025-08-17,LD20250056,Ana Ruiz,ana.56@startup.io,RetailPro,Organic Search,Media,45,1800,2025-08-22,,contacted,Pedir llamada
+2025-08-28,LD20250057,Carlos Gomez,carlos.57@business.co,Globex,Email Campaign,Baja,25,240,2025-09-01,,contacted,Solicito presupuesto
+2025-08-01,LD20250058,Ana Ruiz,ana.58@mail.com,SolucionesYA,LinkedIn Ads,Media,64,400,2025-08-01,,contacted,Busca dashboard semanal
+2025-08-11,LD20250059,Carlos Gomez,carlos.59@business.co,Globex,Organic Search,Media,39,1080,2025-08-14,,contacted,Interesado en demo
+2025-07-31,LD20250060,Diego Lopez,diego.60@business.co,TechMarket,Email Campaign,Baja,40,1500,2025-07-31,,contacted,Interesado en demo
+2025-08-07,LD20250061,María Torres,maría.61@business.co,RetailPro,LinkedIn Ads,Baja,22,240,,,lost,Solicito presupuesto
+2025-09-28,LD20250062,Carolina Rojas,carolina.62@mail.com,Innova,Organic Search,Alta,68,1800,2025-09-30,2025-10-03,converted,Necesita integracion con ERP
+2025-07-28,LD20250063,Carolina Rojas,carolina.63@mail.com,RetailPro,Referral,Baja,21,1800,2025-07-28,,new,Pedir llamada
+2025-09-07,LD20250064,Carlos Gomez,carlos.64@mail.com,Acme Co,Direct,Baja,18,720,,,new,Busca dashboard semanal
+2025-07-14,LD20250065,Juan Perez,juan.65@startup.io,Innova,Organic Search,Media,36,720,2025-07-15,,contacted,Busca dashboard semanal
+2025-09-01,LD20250066,Ana Ruiz,ana.66@startup.io,RetailPro,Email Campaign,Alta,89,750,2025-09-04,,lost,Interesado en demo
+2025-09-10,LD20250067,Diego Lopez,diego.67@startup.io,TechMarket,Email Campaign,Alta,73,2500,2025-09-16,2025-09-30,converted,Solicito presupuesto
+2025-09-11,LD20250068,Juan Perez,juan.68@startup.io,RetailPro,LinkedIn Ads,Alta,67,1800,2025-09-13,2025-09-15,converted,Necesita integracion con ERP
+2025-07-23,LD20250069,Ana Ruiz,ana.69@empresa.com,Acme Co,Organic Search,Baja,22,450,,,new,Interesado en demo
+2025-09-26,LD20250070,María Torres,maría.70@mail.com,RetailPro,Referral,Alta,81,2500,2025-09-28,2025-10-05,converted,Solicito presupuesto
+2025-07-19,LD20250071,Ana Ruiz,ana.71@example.com,Globex,Email Campaign,Baja,26,720,2025-07-23,,contacted,Pedir llamada
+2025-08-21,LD20250072,Luis Herrera,luis.72@startup.io,TechMarket,Organic Search,Alta,62,400,2025-08-26,2025-09-05,converted,Pregunta por precios
+2025-08-02,LD20250073,Juan Perez,juan.73@example.com,Globex,Direct,Baja,29,1800,2025-08-04,,new,Busca dashboard semanal
+2025-09-05,LD20250074,Carolina Rojas,carolina.74@mail.com,Globex,Direct,Media,50,1080,2025-09-11,,lost,Solicito presupuesto
+2025-08-11,LD20250075,Ana Ruiz,ana.75@empresa.com,Innova,Organic Search,Media,43,1800,2025-08-15,,new,Solicito presupuesto
+2025-07-15,LD20250076,Diego Lopez,diego.76@startup.io,Acme Co,Email Campaign,Baja,45,1500,2025-07-22,,new,Pedir llamada
+2025-08-26,LD20250077,Juan Perez,juan.77@empresa.com,Innova,Organic Search,Media,36,300,2025-08-28,2025-09-04,converted,Solicito presupuesto
+2025-09-09,LD20250078,Juan Perez,juan.78@startup.io,SolucionesYA,LinkedIn Ads,Alta,79,2500,2025-09-11,,qualified,Busca dashboard semanal
+2025-09-30,LD20250079,Luis Herrera,luis.79@startup.io,RetailPro,Organic Search,Media,53,400,2025-10-02,2025-10-08,converted,Interesado en demo
+2025-08-05,LD20250080,Diego Lopez,diego.80@mail.com,TechMarket,Organic Search,Alta,72,1200,2025-08-12,,proposal,Necesita integracion con ERP
+2025-08-27,LD20250081,Carolina Rojas,carolina.81@mail.com,Innova,Referral,Baja,26,1800,2025-09-02,,qualified,Necesita integracion con ERP
+2025-08-22,LD20250082,Juan Perez,juan.82@mail.com,RetailPro,Organic Search,Media,60,2500,2025-08-24,,qualified,Busca dashboard semanal
+2025-07-05,LD20250083,Carlos Gomez,carlos.83@startup.io,TechMarket,Organic Search,Alta,79,400,2025-07-07,,new,Interesado en demo
+2025-08-30,LD20250084,Luis Herrera,luis.84@mail.com,TechMarket,Email Campaign,Baja,20,300,2025-09-05,,proposal,Solicito presupuesto
+2025-09-19,LD20250085,Carolina Rojas,carolina.85@startup.io,Acme Co,Referral,Alta,72,750,2025-09-20,,contacted,Pedir llamada
+2025-09-29,LD20250086,Ana Ruiz,ana.86@business.co,Globex,Email Campaign,Alta,58,500,2025-10-03,2025-10-02,converted,Solicito presupuesto
+2025-08-17,LD20250087,Diego Lopez,diego.87@empresa.com,Globex,Organic Search,Baja,25,450,2025-08-20,,proposal,Busca dashboard semanal
+2025-09-13,LD20250088,Carlos Gomez,carlos.88@empresa.com,SolucionesYA,Referral,Media,55,1200,2025-09-20,,proposal,Solicito presupuesto
+2025-09-25,LD20250089,Carlos Gomez,carlos.89@example.com,SolucionesYA,Direct,Baja,24,1080,2025-09-28,,proposal,Busca dashboard semanal
+2025-08-31,LD20250090,Ana Ruiz,ana.90@empresa.com,SolucionesYA,Referral,Baja,59,1200,,,new,Pedir llamada
+2025-08-20,LD20250091,Luis Herrera,luis.91@example.com,TechMarket,Upwork,Baja,46,1080,2025-08-23,,lost,Pregunta por precios
+2025-08-15,LD20250092,María Torres,maría.92@empresa.com,TechMarket,Organic Search,Baja,25,1800,2025-08-16,,proposal,Pedir llamada
+2025-09-21,LD20250093,Juan Perez,juan.93@mail.com,SolucionesYA,LinkedIn Ads,Media,49,720,2025-09-24,,contacted,Necesita integracion con ERP
+2025-09-08,LD20250094,Sofia Martinez,sofia.94@startup.io,TechMarket,Direct,Alta,72,1200,,,lost,Solicito presupuesto
+2025-10-04,LD20250095,Sofia Martinez,sofia.95@example.com,SolucionesYA,Direct,Alta,76,1800,,,lost,Pregunta por precios
+2025-08-16,LD20250096,Ana Ruiz,ana.96@business.co,Acme Co,Organic Search,Alta,67,2500,2025-08-22,2025-08-26,converted,Pedir llamada
+2025-08-17,LD20250097,Ana Ruiz,ana.97@empresa.com,SolucionesYA,LinkedIn Ads,Baja,24,1080,2025-08-21,,proposal,Pedir llamada
+2025-08-22,LD20250098,Ana Ruiz,ana.98@empresa.com,Acme Co,Direct,Media,60,2500,2025-08-24,2025-08-31,converted,Busca dashboard semanal
+2025-08-28,LD20250099,Sofia Martinez,sofia.99@startup.io,SolucionesYA,Referral,Baja,44,300,2025-09-01,,qualified,Interesado en demo
+2025-09-27,LD20250100,Sofia Martinez,sofia.100@empresa.com,SolucionesYA,Organic Search,Alta,79,3000,2025-10-02,2025-10-10,converted,Interesado en demo
+2025-08-20,LD20250101,Luis Herrera,luis.101@empresa.com,Acme Co,Direct,Media,55,1800,,,new,Necesita integracion con ERP
+2025-07-17,LD20250102,María Torres,maría.102@example.com,TechMarket,LinkedIn Ads,Alta,78,3000,2025-07-19,,contacted,Pregunta por precios
+2025-07-01,LD20250103,Luis Herrera,luis.103@empresa.com,Globex,Organic Search,Alta,85,750,2025-07-06,2025-07-10,converted,Interesado en demo
+2025-07-23,LD20250104,Luis Herrera,luis.104@example.com,Globex,Email Campaign,Baja,37,300,2025-07-28,,contacted,Pregunta por precios
+2025-09-14,LD20250105,Ana Ruiz,ana.105@business.co,TechMarket,LinkedIn Ads,Baja,43,1800,2025-09-14,,contacted,Interesado en demo
+2025-08-31,LD20250106,Diego Lopez,diego.106@business.co,RetailPro,LinkedIn Ads,Baja,33,1500,,,new,Interesado en demo
+2025-07-17,LD20250107,Luis Herrera,luis.107@startup.io,RetailPro,Referral,Baja,28,240,2025-07-23,,contacted,Interesado en demo
+2025-09-28,LD20250108,Ana Ruiz,ana.108@startup.io,RetailPro,Upwork,Media,72,2500,2025-10-05,,contacted,Busca dashboard semanal
+2025-08-23,LD20250109,Ana Ruiz,ana.109@mail.com,SolucionesYA,Organic Search,Media,44,1500,2025-08-24,2025-08-27,converted,Busca dashboard semanal
+2025-07-13,LD20250110,Sofia Martinez,sofia.110@empresa.com,TechMarket,LinkedIn Ads,Baja,33,240,2025-07-19,,new,Pedir llamada
+2025-07-07,LD20250111,Luis Herrera,luis.111@startup.io,Innova,Organic Search,Baja,23,1500,,,new,Solicito presupuesto
+2025-07-15,LD20250112,Luis Herrera,luis.112@startup.io,Globex,Upwork,Baja,28,1800,2025-07-15,,qualified,Pregunta por precios
+2025-09-23,LD20250113,Luis Herrera,luis.113@example.com,Globex,Organic Search,Media,54,750,2025-09-29,,contacted,Interesado en demo
+2025-07-19,LD20250114,Juan Perez,juan.114@example.com,RetailPro,Organic Search,Media,44,1500,2025-07-24,,new,Pregunta por precios
+2025-09-15,LD20250115,Ana Ruiz,ana.115@example.com,Globex,LinkedIn Ads,Baja,33,1500,2025-09-22,,contacted,Busca dashboard semanal
+2025-08-04,LD20250116,María Torres,maría.116@startup.io,Acme Co,Organic Search,Alta,74,1200,2025-08-08,,contacted,Interesado en demo
+2025-07-29,LD20250117,Diego Lopez,diego.117@startup.io,Acme Co,LinkedIn Ads,Media,62,3000,2025-07-30,2025-08-10,converted,Interesado en demo
+2025-09-02,LD20250118,Diego Lopez,diego.118@empresa.com,Globex,Organic Search,Baja,23,450,2025-09-07,,proposal,Interesado en demo
+2025-08-20,LD20250119,Juan Perez,juan.119@business.co,Acme Co,Organic Search,Alta,79,400,2025-08-24,2025-09-04,converted,Interesado en demo
+2025-08-21,LD20250120,Juan Perez,juan.120@mail.com,Globex,Upwork,Baja,21,1500,2025-08-22,,lost,Necesita integracion con ERP
